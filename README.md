@@ -1,6 +1,6 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-NAME : ADITYAH M S
-REG.NO : 212223220002
+# NAME : ADITYAH M S
+# REG.NO : 212223220002
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
